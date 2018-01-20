@@ -4,4 +4,4 @@ Spring + springMVC + mybatis 演示项目。
 
 # 参考资料
 
-https://spring.io/guides/gs/gradle/#scratch
+[Building Java Projects with Gradle](https://spring.io/guides/gs/gradle/#scratch)
