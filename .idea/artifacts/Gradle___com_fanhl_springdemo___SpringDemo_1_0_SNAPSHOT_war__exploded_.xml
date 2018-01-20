@@ -33,10 +33,13 @@
           <element id="library" level="project" name="Gradle: org.springframework:spring-test:4.3.7.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-core:4.3.7.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-aspects:4.3.7.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.mybatis:mybatis:3.2.6" />
+          <element id="library" level="project" name="Gradle: org.mybatis:mybatis-spring:1.2.2" />
           <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.2" />
           <element id="library" level="project" name="Gradle: org.aspectj:aspectjweaver:1.8.9" />
-          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis/3.2.6/4c53554a5f32a4315eeb4dbf74faf49cec449f5f/mybatis-3.2.6.jar" />
-          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mybatis/mybatis-spring/1.2.2/1e40a7f5373e4242075a1d386817e7dd49b1697d/mybatis-spring-1.2.2.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax/javaee-api/8.0/5595992a15bf40ceda8a831c77ecfe4043f8f161/javaee-api-8.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.mail/javax.mail/1.6.0/a055c648842c4954c1f7db7254f45d9ad565e278/javax.mail-1.6.0.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1/e6cb541461c2834bdea3eb920f1884d1eb508b50/activation-1.1.jar" />
         </element>
       </element>
     </root>
