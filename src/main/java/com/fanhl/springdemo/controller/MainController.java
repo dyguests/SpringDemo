@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
  * @author fanhl
  */
 @Controller
-@RequestMapping("/")
 public class MainController {
     /**
      * 首页
@@ -19,6 +18,6 @@ public class MainController {
      */
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String index() {
-        return "index2";
+        return "index";
     }
 }
